@@ -18,6 +18,14 @@ I’m Mona (@Super-Mona) — a **Frontend-focused Full-Stack Engineer with 5+ ye
 
 ## 🚀 Featured Projects
 
+### 🏥 Mini Clinical AI Assistant  
+> LLM-powered clinical Q&A assistant for healthcare scenarios  
+
+- Built an AI assistant to simulate **clinical question answering workflows**  
+- Integrated LLM-based reasoning for **medical knowledge retrieval**  
+- Designed structured prompts to improve **response accuracy and consistency**  
+- Focused on **AI usability and real-world healthcare scenarios**
+
 ### 🧠 AI Healthcare RAG Platform  
 > LLM-powered knowledge system for healthcare use cases  
 
