@@ -9,16 +9,12 @@ Hi, I’m Mona (@Super-Mona) — a **Frontend-focused Full-Stack Engineer with 5
 - Building **scalable React-based frontend systems**
 - Bridging **AI capabilities → product → real business value**
 
----
-
 ## 🧠 What I Do
 
 - 🤖 Build **LLM-powered applications** (OpenAI, RAG pipelines)
 - 🏥 Develop **AI healthcare systems** with compliance awareness (TGA)
 - ⚡ Optimise AI systems for **latency, cost, and reliability**
 - 🎨 Design intuitive **AI-driven user experiences (AI UX)**
-
----
 
 ## 🚀 Featured Projects
 
@@ -29,8 +25,6 @@ Hi, I’m Mona (@Super-Mona) — a **Frontend-focused Full-Stack Engineer with 5
 - Enabled **natural language querying** for domain-specific knowledge  
 - Improved system performance via **prompt engineering & evaluation**  
 - Focused on **accuracy, safety, and real-world usability**
-
----
 
 ### 🔬 Deep Learning – Medical Image Classification  
 
@@ -43,8 +37,6 @@ Hi, I’m Mona (@Super-Mona) — a **Frontend-focused Full-Stack Engineer with 5
 - End-to-end ML pipeline  
 - Compared multiple models + hyperparameter tuning  
 - Error analysis using confusion matrices  
-
----
 
 ## 🛠️ Skills
 
