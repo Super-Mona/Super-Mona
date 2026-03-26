@@ -1,16 +1,50 @@
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
+# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">  | AI Product Engineer (LLM × Full-Stack)
 
 ## 👋 About Me
 
-Hi, I’m Mona (@Super-Mona)
+Hi, I’m Mona (@Super-Mona) — a **Frontend-focused Full-Stack Engineer with 5+ years experience**, currently building **AI-powered healthcare products in Melbourne**.
 
-- 🎓 Master of AI @ RMIT
-- 💻 5+ years Full-Stack (Frontend-focused) experience
-- 🤖 Currently building AI-powered healthcare products
-- 💞️ I specialise in React-based frontend systems + AI product integration, with hands-on experience in:
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🎯 I specialise in:
+- Turning **LLM / RAG systems into real user-facing products**
+- Building **scalable React-based frontend systems**
+- Bridging **AI capabilities → product → real business value**
+
+---
+
+## 🧠 What I Do
+
+- 🤖 Build **LLM-powered applications** (OpenAI, RAG pipelines)
+- 🏥 Develop **AI healthcare systems** with compliance awareness (TGA)
+- ⚡ Optimise AI systems for **latency, cost, and reliability**
+- 🎨 Design intuitive **AI-driven user experiences (AI UX)**
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 AI Healthcare RAG Platform  
+> LLM-powered knowledge system for healthcare use cases  
+
+- Built a **RAG architecture** using vector database + structured medical data  
+- Enabled **natural language querying** for domain-specific knowledge  
+- Improved system performance via **prompt engineering & evaluation**  
+- Focused on **accuracy, safety, and real-world usability**
+
+---
+
+### 🔬 Deep Learning – Medical Image Classification  
+
+**White Blood Cell Classification**
+- CNN model using TensorFlow  
+- Data pipeline: augmentation, balancing, normalisation  
+- Improved classification accuracy and generalisation  
+
+**Colon Cancer Detection**
+- End-to-end ML pipeline  
+- Compared multiple models + hyperparameter tuning  
+- Error analysis using confusion matrices  
+
+---
 
 ## 🛠️ Skills
 
@@ -20,6 +54,14 @@ Hi, I’m Mona (@Super-Mona)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![php](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=F7DF1E)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🧠 AI / Data  
+![llm](https://img.shields.io/badge/LLM_Applications-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+![rag](https://img.shields.io/badge/RAG_Systems-4CAF50?style=for-the-badge&logo=databricks&logoColor=white)
+![prompt](https://img.shields.io/badge/Prompt_Engineering-8E24AA?style=for-the-badge&logo=openai&logoColor=white)
+![tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![numpy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### Front-End Development
 
