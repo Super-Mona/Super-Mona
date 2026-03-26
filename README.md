@@ -1,8 +1,8 @@
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">  | AI Product Engineer (LLM × Full-Stack)
+# 🚀 Mona Ma | AI Product Engineer (LLM × Full-Stack)
 
-## 👋 About Me
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px"> Hi There
 
-Hi, I’m Mona (@Super-Mona) — a **Frontend-focused Full-Stack Engineer with 5+ years experience**, currently building **AI-powered healthcare products in Melbourne**.
+I’m Mona (@Super-Mona) — a **Frontend-focused Full-Stack Engineer with 5+ years experience**, currently building **AI-powered healthcare products in Melbourne**.
 
 🎯 I specialise in:
 - Turning **LLM / RAG systems into real user-facing products**
