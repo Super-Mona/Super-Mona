@@ -45,12 +45,15 @@ A selection of production websites I contributed to across corporate, e-commerce
 ## 🚀 Featured AI Projects（RAG / LLM）
 
 ### 🏥 Mini Clinical AI Assistant  
-> LLM-powered clinical Q&A assistant for healthcare scenarios  
+🔗 https://github.com/Super-Mona/mini-clinical  
 
-- Built an AI assistant to simulate **clinical question answering workflows**  
-- Integrated LLM-based reasoning for **medical knowledge retrieval**  
-- Designed structured prompts to improve **response accuracy and consistency**  
-- Focused on **AI usability and real-world healthcare scenarios**
+> LLM-powered clinical assistant designed for real-world healthcare Q&A scenarios  
+
+- Designed and built an AI assistant simulating **clinical decision-support workflows**  
+- Implemented structured prompting strategies to improve **response accuracy, consistency, and safety**  
+- Integrated knowledge retrieval to support **context-aware medical responses (RAG-style)**  
+- Focused on **AI usability**, ensuring outputs are interpretable and aligned with real-world healthcare use cases  
+- Explored challenges such as **hallucination mitigation and domain-specific reliability**
 
 ### 🧠 Machine Learning Experience
 
