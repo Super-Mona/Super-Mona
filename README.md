@@ -20,25 +20,34 @@ I’m Mona (@Super-Mona) — a **Frontend-focused Full-Stack Engineer with 5+ ye
 A selection of production websites I contributed to across corporate, e-commerce, automotive, and property industries.
 
 - **🏗️ Bridgehill Group** – Real Estate Development Brand Website  
-  https://www.bridgehill.com.au/
+  🔗 https://www.bridgehill.com.au/
   
 - **🧾 WHL Partners** – Accounting & Taxation Website  
-  https://whlp.com.au/
+  🔗 https://whlp.com.au/
 
 - **🛍️ Toplite** – Australian Souvenirs E-commerce Website  
-  https://www.toplite.com.au/
+  🔗 https://www.toplite.com.au/
 
 - **🚗 TT Auto** – Auto Body & Accident Repair Website  
-  https://ttautobody.com.au/
+  🔗 https://ttautobody.com.au/
 
 - **🏙️ Rivea** – Luxury Property Development Website  
-  https://riveagc.com.au/
+  🔗 https://riveagc.com.au/
 
 - **🏡 Tunstall Village** – Residential Property Showcase Website  
-  https://tunstallvillage.com.au/
+  🔗 https://tunstallvillage.com.au/
 
 - **⛏️ Silverwattle Capital** – Corporate Resources Trading Website  
-  https://www.silverwattlecapital.com/
+  🔗 https://www.silverwattlecapital.com/
+
+- **🏡 Ensemble House** – Luxury Residential Property Website  
+  🔗 https://ensemblehouse.com.au/
+
+- **💼 Bilions Finance** – Financial Services Corporate Website  
+  🔗 https://bilionsfinance.com.au/
+
+- **🛍️ Baby Direct** – E-commerce Website for Baby Products  
+  🔗 https://baby-direct.com.au/
 
 ## 🚀 Featured AI Projects（RAG / LLM）
 
