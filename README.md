@@ -11,12 +11,38 @@ I’m Mona (@Super-Mona) — a **Frontend-focused Full-Stack Engineer with 5+ ye
 
 ## 🧠 What I Do
 
-- 🤖 Build **LLM-powered applications** (OpenAI, RAG pipelines)
-- 🏥 Develop **AI healthcare systems** with compliance awareness (TGA)
-- ⚡ Optimise AI systems for **latency, cost, and reliability**
-- 🎨 Design intuitive **AI-driven user experiences (AI UX)**
+- 5+ years delivering **production-ready web systems**
+- Hands-on experience turning **AI into real user-facing products**
+- Strong ability to bridge **business needs ↔ technical solutions**
+- Experience working across **frontend, AI, and product layers**
 
-## 🚀 Featured Projects
+## 🌐 Commercial Web Projects
+
+### 🏗️ Bridgehill Group
+A selection of production websites I contributed to across corporate, e-commerce, automotive, and property industries.
+
+- **🏗️ Bridgehill Group** – Real Estate Development Brand Website  
+  https://www.bridgehill.com.au/
+  
+- **🧾 WHL Partners** – Accounting & Taxation Website  
+  https://whlp.com.au/
+
+- **🛍️ Toplite** – Australian Souvenirs E-commerce Website  
+  https://www.toplite.com.au/
+
+- **🚗 TT Auto** – Auto Body & Accident Repair Website  
+  https://ttautobody.com.au/
+
+- **🏙️ Rivea** – Luxury Property Development Website  
+  https://riveagc.com.au/
+
+- **🏡 Tunstall Village** – Residential Property Showcase Website  
+  https://tunstallvillage.com.au/
+
+- **⛏️ Silverwattle Capital** – Corporate Resources Trading Website  
+  https://www.silverwattlecapital.com/
+
+## 🚀 Featured AI Projects（RAG / LLM）
 
 ### 🏥 Mini Clinical AI Assistant  
 > LLM-powered clinical Q&A assistant for healthcare scenarios  
