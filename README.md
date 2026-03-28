@@ -26,25 +26,12 @@ I’m Mona (@Super-Mona) — a **Frontend-focused Full-Stack Engineer with 5+ ye
 - Designed structured prompts to improve **response accuracy and consistency**  
 - Focused on **AI usability and real-world healthcare scenarios**
 
-### 🧠 AI Healthcare RAG Platform  
-> LLM-powered knowledge system for healthcare use cases  
+### 🧠 Machine Learning Experience
 
-- Built a **RAG architecture** using vector database + structured medical data  
-- Enabled **natural language querying** for domain-specific knowledge  
-- Improved system performance via **prompt engineering & evaluation**  
-- Focused on **accuracy, safety, and real-world usability**
-
-### 🔬 Deep Learning – Medical Image Classification  
-
-**White Blood Cell Classification**
-- CNN model using TensorFlow  
-- Data pipeline: augmentation, balancing, normalisation  
-- Improved classification accuracy and generalisation  
-
-**Colon Cancer Detection**
-- End-to-end ML pipeline  
-- Compared multiple models + hyperparameter tuning  
-- Error analysis using confusion matrices  
+- Built deep learning models for medical image classification using TensorFlow  
+- Designed end-to-end ML pipelines including data preprocessing, augmentation, and evaluation  
+- Performed model comparison and hyperparameter tuning to improve performance  
+- Applied error analysis (e.g. confusion matrices) to understand model behaviour   
 
 ## 🛠️ Skills
 
