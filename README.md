@@ -17,8 +17,6 @@ I’m Mona (@Super-Mona) — a **Frontend-focused Full-Stack Engineer with 5+ ye
 - Experience working across **frontend, AI, and product layers**
 
 ## 🌐 Commercial Web Projects
-
-### 🏗️ Bridgehill Group
 A selection of production websites I contributed to across corporate, e-commerce, automotive, and property industries.
 
 - **🏗️ Bridgehill Group** – Real Estate Development Brand Website  
