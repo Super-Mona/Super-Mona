@@ -25,6 +25,18 @@ A selection of production websites I contributed to across corporate, e-commerce
 - **🧾 WHL Partners** – Accounting & Taxation Website  
   🔗 https://whlp.com.au/
 
+- **💼 Bilions Finance** – Financial Services Corporate Website  
+  🔗 https://bilionsfinance.com.au/
+
+- **🏡 Ensemble House** – Luxury Residential Property Website  
+  🔗 https://ensemblehouse.com.au/
+
+- **🏡 Tunstall Village** – Residential Property Showcase Website  
+  🔗 https://tunstallvillage.com.au/
+
+- **⛏️ Silverwattle Capital** – Corporate Resources Trading Website  
+  🔗 https://www.silverwattlecapital.com/
+
 - **🛍️ Toplite** – Australian Souvenirs E-commerce Website  
   🔗 https://www.toplite.com.au/
 
@@ -33,18 +45,6 @@ A selection of production websites I contributed to across corporate, e-commerce
 
 - **🏙️ Rivea** – Luxury Property Development Website  
   🔗 https://riveagc.com.au/
-
-- **🏡 Tunstall Village** – Residential Property Showcase Website  
-  🔗 https://tunstallvillage.com.au/
-
-- **⛏️ Silverwattle Capital** – Corporate Resources Trading Website  
-  🔗 https://www.silverwattlecapital.com/
-
-- **🏡 Ensemble House** – Luxury Residential Property Website  
-  🔗 https://ensemblehouse.com.au/
-
-- **💼 Bilions Finance** – Financial Services Corporate Website  
-  🔗 https://bilionsfinance.com.au/
 
 - **🛍️ Baby Direct** – E-commerce Website for Baby Products  
   🔗 https://baby-direct.com.au/
